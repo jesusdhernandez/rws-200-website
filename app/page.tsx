@@ -16,7 +16,8 @@ function Main()
 {
   return (
     <section>
-      <h1>Hello World!</h1>
+      <h1>Yes, that navigation bar has broken background color. yes, I will fix it. Yes, the links do work!</h1>
+      <h1>getting this to work on cloudflare pages is genuinely such a nightmare, my sleep is ruined</h1>
     </section>
   );
 }

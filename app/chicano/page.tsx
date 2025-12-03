@@ -15,7 +15,7 @@ function Main()
 {
   return (
     <section>
-      <h1>Hello World!</h1>
+      <h1>This one will be about Chicano Park in San Diego!</h1>
     </section>
   );
 }

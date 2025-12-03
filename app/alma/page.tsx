@@ -15,7 +15,7 @@ function Main()
 {
   return (
     <section>
-      <h1>Hello World!</h1>
+      <h1>This page will be about La Alma in Colorado.</h1>
     </section>
   );
 }

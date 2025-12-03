@@ -15,7 +15,7 @@ function Main()
 {
   return (
     <section>
-      <h1>Hello World!</h1>
+      <h1>And this one will be about the murals you find at some MTS Trolley Stations!</h1>
     </section>
   );
 }
