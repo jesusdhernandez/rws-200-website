@@ -1,4 +1,4 @@
-name = "rws-200"
+name = "rws-200-website"
 compatibility_date = "2025-12-03"
 
 # Tell Wrangler to deploy a Pages-style static site
